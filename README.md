@@ -5,10 +5,7 @@ i am currently studying cs @ the illustrious hampton university interested in be
 
 **i love working with**
 
-<div display="flex">
-  <img src="https://cdn-clekk.nitrocdn.com/tkvYXMZryjYrSVhxKeFTeXElceKUYHeV/assets/images/optimized/rev-fe0ba7b/litslink.com/wp-content/uploads/2020/11/what-is-java-image.webp" alt="Java"/>
-
-</div>
+- Java
 
 ### i am working on 
 
@@ -17,15 +14,9 @@ i am currently studying cs @ the illustrious hampton university interested in be
 
 ###  i am learning 🌱
 
-<div display="flex">
-  <img src="https://cdn-clekk.nitrocdn.com/tkvYXMZryjYrSVhxKeFTeXElceKUYHeV/assets/images/optimized/rev-fe0ba7b/litslink.com/wp-content/uploads/2020/11/what-is-java-image.webp" alt="HTML"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://banner2.cleanpng.com/20180810/biz/3efdae17d419cdcf3886d344b989ea45.webp" alt="CSS"/>
-
-
-
-</div>
-
+- JS
+- HTML
+-CSS
 
 ###  let's connect!
 

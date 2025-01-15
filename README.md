@@ -9,8 +9,8 @@ I am currently studying cs @ the illustrious Hampton University interested in be
 
 ### I am working on 
 
-- growing my project portfolio
-- securing a summer '25 internship
+- Growing my project portfolio
+- Securing a summer '25 internship
 
 ###  I am learning 🌱
 
